@@ -1,1 +1,2 @@
-# Institut-Management-Program
+# Institut-Management-Program 
+My C++ program is designed to streamline the management of an educational institution through a user-friendly menu-based system. This comprehensive application covers various aspects of institution management, including professors, grade levels, students, academic years, and subjects. With our program, administrators and educators can efficiently manage and organize essential data within the institution.
